@@ -1,4 +1,4 @@
-<center># Welcome to My Profile! 👋 
+# Welcome to My Profile! 👋 
  ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/SyedTahseen/) ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/SyedTahseen/&title=Profile%20Views)
 ### Available 👇
 <p>
@@ -38,4 +38,3 @@ Q | A
 
 - 💬 Ask me about anything.
 - 📫 How to reach me: contact@tahseen.ml
-</center>
