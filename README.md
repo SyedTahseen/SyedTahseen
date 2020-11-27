@@ -1,5 +1,5 @@
 # Welcome to My Profile! 👋 
- ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/SyedTahseen/)\ ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/SyedTahseen/&title=Profile%20Views)
+ ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/SyedTahseen/) ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/SyedTahseen/&title=Profile%20Views)
 ### Available 👇
 <p>
   <a href="https://www.linkedin.com/in/itxTahseen/">
