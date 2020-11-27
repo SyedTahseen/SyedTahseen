@@ -23,7 +23,7 @@ Q | A
 --- | --- 
 **My Machine**  | `Acer aspire 5s`
 **Editor**  | `Visual Studio Code`
-**Platforms I develop for** | `Mobile, Web, CLI`
+**Platforms I develop for** | `Mobile, Web`
 **Languages I know**  | `JS, Python , Kotlin ,Dart , Php`
 **Languages I learning** | `Go, Rust, C++ `
 
