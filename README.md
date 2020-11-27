@@ -17,6 +17,12 @@
   <a href="https://tahseen.ml">
     <img align="left" alt="Syed Tahseen Website" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/website.svg" />
   </a>
+ <a href="https://tahseen.ml">
+    <img align="left" alt="Syed Tahseen Website" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/webpack.js" />
+  </a>
+ <a href="https://tahseen.ml">
+    <img align="left" alt="Syed Tahseen Website" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/xero.js" />
+  </a>
 </p>
 <br>
 <br>
