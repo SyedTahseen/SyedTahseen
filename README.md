@@ -1,24 +1,22 @@
 # Welcome to My Profile! 👋 
- ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/SyedTahseen/)\
- ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/SyedTahseen/&title=Profile%20Views)
+ ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/SyedTahseen/)\ ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/SyedTahseen/&title=Profile%20Views)
 ### Available 👇
 <p>
-  <a href="https://www.linkedin.com/in/parveenbhadoo/">
-    <img align="left" alt="Sumanjay LinkedIN" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <a href="https://www.linkedin.com/in/itxTahseen/">
+    <img align="left" alt="Syed Tahseen LinkedIN" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
-  <a href="https://twitter.com/parveenbhadoo">
-    <img align="left" alt="Sumanjay Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/twitter.svg" />
+  <a href="https://twitter.com/itxTahseen">
+    <img align="left" alt="Syed Tahseen Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/twitter.svg" />
   </a>
-  <a href="https://www.youtube.com/c/parveenbhadoo">
-    <img align="left" alt="Sumanjay YouTube" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/youtube.svg" />
+  <a href="https://instagram.com/x.Tahseen">
+    <img align="left" alt="Syed Tahseen Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/instagram.svg" />
   </a>
-  <a href="https://instagram.com/parveenbhadoo">
-    <img align="left" alt="Sumanjay Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/instagram.svg" />
+  <a href="https://telegram.com/iTahseen">
+    <img align="left" alt="Syed Tahseen Telegram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/telegram.svg" />
   </a>
-  <a href="https://telegram.dog/TheFirstSpeedster">
-    <img align="left" alt="Sumanjay Telegram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/telegram.svg" />
+  <a href="https://tahseen.ml">
+    <img align="left" alt="Syed Tahseen Website" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/web.svg" />
   </a>
-  
 </p>
 <br>
 <br>
