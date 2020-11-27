@@ -43,7 +43,7 @@ About Me = [
 ]
 ```
 <br>
-<a href="https://tahseen.ml/"><p align="center">&nbsp;<img align="center" href="https://github.com/SyedTahseen" src="https://github-readme-stats.vercel.app/api?username=avipatilpro&theme=algolia&show_icons=true" alt="SyedTahseen"/></p></a>
+<a href="https://tahseen.ml/"><p align="center">&nbsp;<img align="center" href="https://github.com/SyedTahseen" src="https://github-readme-stats.vercel.app/api?username=SyedTahseen&theme=algolia&show_icons=true" alt="SyedTahseen"/></p></a>
 
 <!--
 <br>
