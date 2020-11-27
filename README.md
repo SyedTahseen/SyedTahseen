@@ -15,7 +15,7 @@
     <img align="left" alt="Syed Tahseen Telegram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/telegram.svg" />
   </a>
   <a href="https://tahseen.ml">
-    <img align="left" alt="Syed Tahseen Website" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/web.svg" />
+    <img align="left" alt="Syed Tahseen Website" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/website.svg" />
   </a>
 </p>
 <br>
