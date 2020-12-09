@@ -29,7 +29,7 @@
 
 - 💬 Ask me about **all things**
 
-- 📫 How to reach me **contact@tahseen.ml or itxtahsee@gmail.com**
+- 📫 How to reach me **contact@tahseen.ml or itxtahseen@gmail.com**
 
 <br><br>
 
