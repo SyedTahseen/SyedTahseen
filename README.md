@@ -1,4 +1,4 @@
-<h1 align="center">Hi  &nbsp;<a href="https://avipatilweb.me/"><img src="https://raw.githubusercontent.com/avipatilpro/avipatilpro/master/Hi.gif" width="48px"></a>, I'm Syed Tahseen</h1>
+<h1 align="center">Hi  &nbsp;<a href="https://stahseen.me/"><img src="https://raw.githubusercontent.com/avipatilpro/avipatilpro/master/Hi.gif" width="48px"></a>, I'm Syed Tahseen</h1>
 
 <p align="center">
 <a href="https://twitter.com/itxtahseen" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="itxtahseen" height="30" width="40" /></a>
@@ -7,7 +7,7 @@
 <a href="https://instagram.com/x.tahseen" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="x.tahseen" height="30" width="40" /></a>
 </p>
 
-<h3 align="center">A passionate ethical hacker from Punjab, Pakistan</h3>
+<h3 align="center">A passionate ethical hacker from Pakistan</h3>
 
 <h4 align="center">Open-Source Developement and Always Develop in Python and JS 🐍 <br> I Like to work on Python Programes privately</h4>
 
