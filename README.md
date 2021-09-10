@@ -18,21 +18,6 @@
 <p align="center"><a href="https://tahseen.ml/"><img src="https://sdk.bitmoji.com/render/panel/8f218be7-72ff-4513-b642-f1c750b5a618-73722fee-603d-4ad6-a574-ee66da7461b3-v1.png?transparent=1&palette=1" alt="Hello" width="150" height="150"/></a></p><br>
 
 
-
-- 🔭 I’m currently not working I am offline
-
-- 🌱 I’m currently learning **Python and New Things**
-
-- 👯 My Fun Fact is **Coffee & Friends**
-
-- 🤝 I’m looking for help with **Profession Developers**
-
-- 💬 Ask me about **all things**
-
-- 📫 How to reach me **contact@tahseen.ml or itxtahseen@gmail.com**
-
-<br><br>
-
 ```py
 About Me = [
     "I'm student with noob dev labels",
@@ -42,8 +27,12 @@ About Me = [
     "I Work for Mine"
 ]
 ```
-<br>
-<a href="https://tahseen.ml/"><p align="center">&nbsp;<img align="center" href="https://github.com/SyedTahseen" src="https://github-readme-stats.vercel.app/api?username=SyedTahseen&theme=algolia&show_icons=true" alt="SyedTahseen"/></p></a>
+
+<p align="center">
+<a href="https://tahseen.ml/"><p align="center">&nbsp;<img align="center" href="https://github.com/SyedTahseen" src="https://github-readme-streak-stats.herokuapp.com/?user=SyedTahseen&theme=dark" alt="SyedTahseen"/></p></a>
+    
+</p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SyedTahseen" alt="SyedTahseen" /></a> </p>
 
 <!--
 <br>
@@ -54,8 +43,13 @@ About Me = [
 
 <br><br>
 
-<p align="center"> 
-<code><a href="https://developer.android.com" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a></code>&nbsp;<code><a href="https://azure.microsoft.com/en-in/" target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/></a></code>&nbsp;<code><a href="https://www.cprogramming.com/" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/></a></code>&nbsp;<code><a href="https://www.w3schools.com/cpp/"target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a></code>&nbsp;<code><a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a></code>&nbsp;<code><a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a></code>&nbsp;<code><a href="https://www.w3.org/html/" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a></code>&nbsp;<code><a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/></a></code>&nbsp;<code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a></code>&nbsp;<code><a href="https://www.php.net" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="40" height="40"/></a></code>&nbsp;<code><a href="https://www.python.org" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/></a></code>&nbsp;<code><a href="https://reactnative.dev/" target="_blank"><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/></a></code>&nbsp;<code><a href="https://sass-lang.com" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></a></code>&nbsp;<code><a href="https://www.adobe.com/products/xd.html" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/></a></code>&nbsp;</p>
 
+- 🔭 I’m currently not working I am offline
 
+- 👯 My Fun Fact is **Coffee & Friends**
 
+- 💬 Ask me about **all things**
+
+- 📫 How to reach me **contact@tahseen.ml or itxtahseen@gmail.com**
+
+<br><br>
