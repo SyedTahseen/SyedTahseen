@@ -1,4 +1,4 @@
-<h1 align="center">Hi, It's Tahseen</h1>
+<h2 align="center">Hi, It's Tahseen</h2>
 <h3 align="center">Trying to Explore GitHub</h3>
 
 - 🔭 I’m currently working on **brandtrolly.com**
