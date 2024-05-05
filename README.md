@@ -1,5 +1,5 @@
 <h1 align="center">Hi, It's Tahseen</h1>
-<h3 align="center">Trying to explore Github</h3>
+<h3 align="center">Trying to explore GitHub</h3>
 
 - 🔭 I’m currently working on **brandtrolly.com**
 
